@@ -1,2 +1,2 @@
 # Linear-Regression-Andrew-ng
-I wrote myself, but with little help of Google.
+I wrote myself, but with little help of google and other programs of this project.
